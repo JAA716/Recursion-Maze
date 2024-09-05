@@ -1,0 +1,14 @@
+11
+10,39
+0,7
++++++++E+++++++++++++++++++++++++++++++++
++OOOOOOO+OOOOO+OOOOO+OOO+OOO+OOOOOOOOOOO+
++++++++O+O+++++++++O+++O+++O+O+++++++++++
++OOOOOOOOOOOOOOOOO+OOOOOOO+O+OOO+O+O+O+O+
++++++++O+++++++O+O+++O+O+++O+O+++O+O+O+O+
++O+O+O+O+OOO+O+O+OOO+O+OOOOOOOOOOOOOOOOO+
++O+O+O+O+O+O+O+O+++O+++++O+++O+O+++++++++
++OOOOOOO+O+OOOOOOO+OOOOO+O+O+O+O+O+OOOOO+
++O+O+++O+O+++++O+++++O+O+O+O+O+O+O+++O+O+
++O+O+OOO+OOO+OOO+OOOOO+OOO+OOO+OOOOOOO+O+
++++++++++++++++++++++++++++++++++++++++S+
